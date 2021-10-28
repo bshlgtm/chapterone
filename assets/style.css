@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+}
+.header{
+    position: fixed;
+    background-color: rgb(43, 63, 119);
+    width: 100%;
+    height: 90px;
+
+}
+/*colors
+logo : #c4ff1d;
+*/
+.log{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 30px;
+
+  
+}
+.logo a{
+    color: #c4ff1d;
+    font-size: 30pt;
+    margin-top: 15px;
+    position: fixed;
+    margin-left: 120px;
+    text-decoration: none;
+    font-family: cursive;
+}
+.navb{
+    margin-left: 60%;
+    position: absolute;
+}
+.navbar{
+    margin-left: 55%;
+    padding: 10px;
+    margin-top: 15px;
+}
+.navbar ul{
+    float: left;
+}
+.navbar ul a{
+    color: #c4ff1d;
+    font-size: 25px;
+    text-decoration: none;
+}
+.navbar ul :hover{
+    color: #fff;
+}
